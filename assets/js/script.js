@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const columns = parseInt(document.getElementById("columns").value);
         const rows = parseInt(document.getElementById("rows").value);
 
-        data = [];
+      
 
         let tableHTML = "<table>";
         for (let i = 1; i <= rows; i++) {
