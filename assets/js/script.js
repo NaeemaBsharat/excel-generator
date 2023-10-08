@@ -34,11 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     function exportExcel() {
-        if (data.length === 0) {
-            alert("Generate an Excel sheet first.");
-            return;
-        }
-
+        
         const table = tableContainer.querySelector("table");
         const rows = table.querySelectorAll("tr");
 
