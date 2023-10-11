@@ -7,7 +7,7 @@ It is a page for generating an excel sheet. The page contains two inputs one for
 
 
   #### THE LINK OF PAGE:
-[Web code editor](https://naeemabsharat.github.io/excel-generator/)
+[Excel Sheet](https://naeemabsharat.github.io/excel-generator/)
 
 
 #### excel-sheet-generator Page:
